@@ -1,5 +1,6 @@
 # QuickLog
 基于C++20的日志库实现，支持自定义格式和自定义输出
+
 QuickLog 支持多种功能：
 
 - 日志分级,提供8种日志等级(All,Trace,Debug,Info,Warning,Error,Fatal,Off)
