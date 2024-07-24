@@ -90,5 +90,12 @@ int main()
 - [ ] csv文件输出
 - [ ] 数据库输出
 
+## 更新日志
+
+**2024-7-24** 微软更新了std::make_format_args()函数，参数采用左值引用而不是转发引用，右值将不再能作为参数进行传递
+
+参考链接：
+[P2905R2:运行时格式字符串 报告](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2905r2.html#impact)
+
 
 
