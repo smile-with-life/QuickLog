@@ -97,5 +97,12 @@ int main()
 参考链接：
 [P2905R2:运行时格式字符串 报告](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2905r2.html#impact)
 
+**2024-7-27** 简化了部分接口，优化性能，修改了file_helper类
+
+1.让输出更加简单易用
+
+2.性能提升20%
+
+3.file_helper类变为file_API类，增加了更多的接口
 
 
